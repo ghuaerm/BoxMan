@@ -7,9 +7,9 @@
 ## 推箱子和地图编辑器
 
 
-[/output/BoxMan.exe][game]：编译好的程序，Windows下可直接运行
+/output/BoxMan.exe：编译好的程序，Windows下可直接运行
 
-[/output/BoxManEditer.exe][editor]：地图编辑器，可以对地图进行修改或添加
+/output/BoxManEditer.exe：地图编辑器，可以对地图进行修改或添加
 
 ### 效果截图
 
